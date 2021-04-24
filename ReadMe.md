@@ -14,8 +14,6 @@ J. Crayton Pruitt Family Department of Biomedical Engineering
 
 University of Florida 
 
-Email: kotlarz.parker@ufl.edu 
-
 April 11, 2021 
 
 *Action Items Denote Modifiable User Input*
