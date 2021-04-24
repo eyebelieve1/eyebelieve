@@ -20,6 +20,9 @@ April 11, 2021
 
 *Action Items Denote Modifiable User Input*
 
+## Background
+
+This program uses deep learning to classify diseased images of eyes for the following diseases: bulging, cataracts, and uveitis. It can also identify healthy eyes as well.
  
 
 # How to Operate the Code 
