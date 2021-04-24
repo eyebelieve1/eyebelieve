@@ -1,4 +1,4 @@
-#Read Me 
+# Read Me 
 
 Team: Eye Believe 
 
@@ -22,9 +22,9 @@ April 11, 2021
 
  
 
-#How to Operate the Code 
+# How to Operate the Code 
 
-##Creating the the Trained Network 
+## Creating the the Trained Network 
 
 Step 1: Establish the pretrained network Alexnet in MATLAB. 
 
@@ -46,7 +46,7 @@ Step 6: Test the newly trained network on the testing set.
 
 Step 7: Analyze accuracy of the network using a confusion matrix. 
 
-##Individual Image Classification 
+## Individual Image Classification 
 
 Step 1: Load the image 
 
