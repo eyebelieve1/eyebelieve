@@ -55,3 +55,6 @@ Step 1: Load the image
 Step 2: Resize the image to 227 x 227 
 
 Step 3: Use the trained network to classify the image 
+
+## Link to Youtube Tutorial
+[![Tutorial](http://img.youtube.com/vi/jVHB41cclGo/0.jpg)](http://www.youtube.com/watch?v=jVHB41cclGo)
